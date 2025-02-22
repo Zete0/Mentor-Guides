@@ -273,6 +273,9 @@
 **Flea** 
 - *(tick)*
 
+**Rocko**
+- *(Rocketeer)*
+
 **Fido** 
 - *(hound)*
 
