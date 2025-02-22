@@ -150,7 +150,7 @@
 **Rezers or Rezbots** 
 - *Ressurection bots*
 
-**Rockets / rocket men** 
+**Rockets / rockos** 
 - *Rocket bots (rocketeer, aggrovator)*
 
 **Arty** 
@@ -191,6 +191,9 @@
 
 **Behe** 
 - *Behemoth*
+
+**Jug**
+- *Juggernaut*
 <br> <br>
 
 ## Technologies
