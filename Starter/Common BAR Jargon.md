@@ -128,4 +128,6 @@ Sometimes people reference the old names of units being used, such as: <br>
 **Flash** - *(blitz)* <br>
 **Guardian** - *(gauntlet)* <br>
 **Punisher** - *(Agitator)* <br>
-ect, ect, ect, ect <br>
+ect, ect, ect, ect 
+
+[Other old Total Annihilation unit names can be found here](https://totalannihilation.fandom.com/wiki/Kbot)<br>
