@@ -244,13 +244,16 @@
 - *The act of reclaiming something*
 
 **Food** 
-- *Something that should be reclaimed or ressurected*
+- *Something that should be reclaimed or resurrected*
 
 **Com Bomb** 
 - *Intentionally moving a commander into a position to blow up*
 
 **Hug** 
 - *Intentionally com-bombing a commander by getting as close as possible to it*
+
+**Com Bait** 
+- *Intentionally putting one's commander in a precarious situation to bait a snipe while actually being capable of defending it or getting to safety*
 
 **Noob Trap** 
 -# *Units that seem like a good idea in a lot of cases that end up getting over-built but are actually very specialized and should rarely be built*
