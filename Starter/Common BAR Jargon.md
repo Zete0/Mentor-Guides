@@ -1,6 +1,8 @@
 # Common BAR Words / Phrases
 <sup><sup>(Authors: Zeteo,)</sup></sup>
 
+![Common BAR Jargon](https://github.com/user-attachments/assets/11c59502-c90e-442b-b391-d09b52946798)
+
 ## Resources
 
 **Mex** 
