@@ -294,5 +294,6 @@
 <br>
 -*(ect, ect, ect, ect)*-
 <br> <br>
+Ultimately, the original names were grabbed from Total Annihilation
 
 **[Other old Total Annihilation unit names can be found here](https://totalannihilation.fandom.com/wiki/Kbot)**
