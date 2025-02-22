@@ -180,7 +180,7 @@
 **LOLCannon** 
 - *Rapid-Fire Long Range Plasma Cannon (Ragnarok, Calamity)*
 
-**Shield** 
+**Bubble or Shield** 
 - *Plasma Deflectors (Keeper, Overseer)*
 
 <br>
