@@ -198,6 +198,12 @@
 
 ## Technologies
 
+**Teching** 
+- *Usually a callout signaling to their team they are building a T2 lab -(or setting up t2 economy)- and will be weaker for a moment*
+
+**Lateral Teching** 
+- *To reclaim one's current lab and replace it with another of the same tier. -(A.K.A Transitioning)-*
+
 **T1** 
 - *Tier 1 units -(made from a starter factory, com or non-advanced con)-*
 
@@ -215,14 +221,6 @@
 
 **T3.5** 
 - *Extra expensive T3 experimental units or expensive late game -(LOLCannons, Juggernaut, Titan, Behemoth)-*
-
-<br>
-
-**Teching** 
-- *Usually a callout signaling to their team they are building a T2 lab -(or setting up t2 economy)- and will be weaker for a moment*
-
-**Lateral Teching** 
-- *To reclaim one's current lab and replace it with another of the same tier. -(A.K.A Transitioning)-*
 <br> <br>
 
 ## Teamwork
