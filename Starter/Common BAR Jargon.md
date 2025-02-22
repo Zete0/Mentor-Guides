@@ -166,9 +166,6 @@
 
 **AA** 
 - *Anti Air*
-
-**Pop-up** 
-- *Defenses that gain extra hp when not attacking*
 <br>
 
 **AN or Anti** 
