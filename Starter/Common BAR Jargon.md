@@ -134,13 +134,13 @@
 **MLT** 
 - *Medium Laser Turret (beamer, twin guard)*
 
-**HLT** 
-- *Heavy Laser Turret (Overwatch, Warden)*
-- *(these are more about area control than damage and are quite expensive)*
+**ACT, ACLT or  HLT** 
+- *Heavy Laser Turret or Area Control Laser Turret (Overwatch, Warden)*
+- *[these are more about area control than damage and are quite expensive]*
 
 **Noob Cannon**
 - *Static T1 Artillery (gauntlet, agitator)*
-- *(these are very expensive for T1 for not a ton of damage, ideally place them where they can already deal a lot of damage to buildings, not just where defenses are needed)*
+- *[these are very expensive for T1 for not a ton of damage, ideally place them where they can already deal a lot of damage to buildings, not just where defenses are needed]*
 
 **Popups**
 - *T1 Popup Turrets (Dragon's Maw, Dragon's Claw)*
