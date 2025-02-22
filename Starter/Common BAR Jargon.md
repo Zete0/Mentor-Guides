@@ -60,8 +60,19 @@
 **Porc** - *Porcupine, refers to static defenses* <br>
 **LLT** - *Light Laser Turret (sentry, guard)* <br>
 **MLT** - *Medium Laser Turret (beamer, twin guard)* <br>
-**HLT** - *Heavy Laser Turret (gauntlet, agitator)* <br>
-<br>
+**HLT** <br>
+- *Heavy Laser Turret (Overwatch, Warden)* <br>
+- *[these are more about area control than damage and are quite expensive]* <br>
+
+**Noob Cannon**
+- *Static T1 Artillery (gauntlet, agitator)* <br>
+- *[these are very expensive for T1 for not a ton of damage, ideally place them where they can already deal a lot of damage to buildings, not just where defenses are needed]* <br>
+
+**Popups**
+- *T1 Popup Turrets *(Dragon's Maw, Dragon's Claw)* <br>
+- *[These are tanky defenses that repair quickly and blend in with walls]*
+</br>
+
 **Rezers or Rezbots** - *Ressurection bots* <br>
 **Rockets / rocket men** - *Rocket bots (rocketeer, aggrovator)* <br>
 **Arty** - *Artillery (usually the mobile version)* <br>
