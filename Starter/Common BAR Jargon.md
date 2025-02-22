@@ -23,7 +23,7 @@
 **Eco** - *Refers to building up one's economy* <br>
 
 **Shrimp** - *Usually refers to newer / lower OS players who are still learning the basics* <br>
-**Lobster** - *Usually refers to players who have a general understanding of the game, but often get cooked by seasoned veterans* <br>
+**Lobster** - *Used a lot like noob, can reference anyone really, but used to refer more to players with a hardened defensive shell that are easily cooked by experience* <br>
 **Lobster Pot** - *The battle grounds in which lobsters duke it out* <br>
 <br>
 **Cooked** - *Usually refers to a player that was destroyed easily (may or may not be their own fault)* <br>
@@ -83,14 +83,14 @@
 
 ### Technologies
 -----
-**T1** - *Tier 1 units* <br>
+**T1** - *Tier 1 units -(made from a starter factory, com or non-advanced con)-* <br>
 **T1.5** - *Tier 1 buildings that cannot be built from the commander, sometimes also refers to extra strong/expensive T1 units* <br>
-**T2** - *Tier 2 units* <br>
+**T2** - *Tier 2 units -(made from an advanced con or advanced factory)-* <br>
 **T2.5** - *Extra strong/expensive T2 units that usually fair well against T3 units* <br>
 **T3** - *Tier 3 experimental units built from the experimental gantry* <br>
 **T3.5** - *Extra expensive T3 experimental units or expensive late game (LOLCannons, Juggernaut, Titan, Behemoth)* <br>
 
-**Teching** - *Usually a callout signalling they are building a T2 lab* <br>
+**Teching** - *Usually a callout signaling to their team they are building a T2 lab -(or setting up t2 economy)- and will be weaker for a moment* <br>
 **Lateral Teching** - *To reclaim one's current lab and replace it with another of the same tier. (A.K.A Transitioning)* <br>
 
 <br>
