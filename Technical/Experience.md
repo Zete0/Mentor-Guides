@@ -1,5 +1,6 @@
 # Experience
 <sup><sup>(Author: Volshok)</sup></sup>
+<br>
 **<img src="ExperienceGain.gif">**
 ## Summary
 Units accrue experience by inflicting damage on enemies. Unit experience provides percentage-based bonuses to specific attributes:
