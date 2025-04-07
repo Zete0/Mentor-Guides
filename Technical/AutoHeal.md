@@ -1,7 +1,7 @@
 # Auto Heal
 <sup><sup>(Author: Volshok)</sup></sup>
 ## Summary
-All units in BAR begin repairing themselves one-minute after bezing damaged, generally at the rate of 5 HP/second. Some units (like the Commander) have additional healing that continuously repairs a set value. These two heals can stack, so a damage commander that hasn't taken damage for 1 minute will heal 10 hp/second.
+All units in BAR begin repairing themselves one-minute after being damaged, generally at the rate of 5 HP/second. Some units (like the Commander) have additional healing that continuously repairs a set value. These two heals can stack, so a damage commander that hasn't taken damage for 1 minute will heal 10 hp/second.
 
 ## Types of Self-Repair
 There are two kinds of self repairing mechanics for units in BAR.
